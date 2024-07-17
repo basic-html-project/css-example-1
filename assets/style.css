@@ -1,0 +1,31 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    margin: 20px 0;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+}
+
+/* Navbar Styles */
+.navbar-toggle {
+    border: none;
+    background: none;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+/* Section Styles */
+#section1, #section2, #section3 {
+    
+    border: 1px solid black;
+    padding: 5px;
+}
